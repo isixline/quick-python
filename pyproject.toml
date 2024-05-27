@@ -2,6 +2,7 @@
 name = "quick-python"
 version = "0.1.0"
 description = ""
+authors = ["xxx <xxx@email.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
